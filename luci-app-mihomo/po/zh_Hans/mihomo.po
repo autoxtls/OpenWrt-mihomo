@@ -37,6 +37,12 @@ msgstr "订阅："
 msgid "Upload Profile"
 msgstr "上传配置文件"
 
+msgid "Mixin"
+msgstr "混入"
+
+msgid "Even if this option is disabled, the neccesary config will still mixin to make sure it works properly!"
+msgstr "即使禁用此选项，必要的配置仍然会混入以确保正常工作！"
+
 msgid "Proxy Config"
 msgstr "代理配置"
 
